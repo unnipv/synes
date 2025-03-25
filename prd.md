@@ -1,4 +1,6 @@
 
+# Product requirement document
+
 # Retro Music Visualizer Chrome Extension: Architecture and Technical Specification
 
 This comprehensive report outlines the architecture, technology stack, and product requirements for developing a Chrome extension that creates retro-style visualizations based on audio playing from YouTube/YouTube Music and displays them as an overlay on the browser window.
